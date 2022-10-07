@@ -1,0 +1,18 @@
+{
+  "name": "mysqljs_crud",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Basic CRUD operation using express, mysql2 and pug in ES6",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Mark Dennis Sanchez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.20"
+  }
+}
