@@ -2,7 +2,7 @@
   "name": "mysqljs_crud",
   "type": "module",
   "version": "1.0.0",
-  "description": "Basic CRUD operation using express, mysql2 and pug in ES6",
+  "description": "Basic API with CRUD operation using express, mysql2 and joi in ES6",
   "main": "app.js",
   "scripts": {
     "start": "nodemon app.js"
